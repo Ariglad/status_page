@@ -22,17 +22,17 @@
     "url": "https://www.ariglad.com",
     "icon": "https://favicons.githubusercontent.com/www.ariglad.com",
     "slug": "ariglad-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 223,
-    "timeWeek": 219,
-    "timeMonth": 228,
-    "timeYear": 243,
+    "time": 242,
+    "timeDay": 191,
+    "timeWeek": 211,
+    "timeMonth": 225,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   }
 ]
