@@ -4,7 +4,7 @@
     "url": "https://app.ariglad.com",
     "icon": "https://favicons.githubusercontent.com/app.ariglad.com",
     "slug": "ariglad-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 516,
     "timeDay": 440,
     "timeWeek": 434,
-    "timeMonth": 386,
+    "timeMonth": 388,
     "timeYear": 516,
     "dailyMinutesDown": {}
   },
